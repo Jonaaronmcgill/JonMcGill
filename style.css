@@ -3,6 +3,7 @@
 }
 
 body{
+  margin: 0;
   background-color: rgb(41, 144, 204);
   
   border-color: black;
